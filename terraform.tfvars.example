@@ -1,11 +1,11 @@
-# Rename: terraform.tfvars.sample → terraform.tfvars
+# Rename: terraform.tfvars.example → terraform.tfvars
 
 # AWSのアクセスキー
 aws_access_key = "AKIA_____________________"
 aws_secret_key = "_______________________________"
 
 # 公開鍵ファイルのPath
-# sample: ~/.ssh/keys/hogehoge.pub
+# example: ~/.ssh/keys/hogehoge.pub
 ssh_public_key_path = ""
 
 # 各種リソースの名前のprefix
